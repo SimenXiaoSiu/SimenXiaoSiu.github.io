@@ -15,3 +15,8 @@ I'm really excited to blog my journey on GitHub.com.
 <ul>
 <li><a href="https://github.com/{{ site.github_username }}"> GitHub</a></li>
 </ul>
+
+# Projects
+<ul>
+<li><a href="https://simenxiaosiu.github.io/TestingHelloWorld/"> Hello World Project</a></li>
+</ul>
